@@ -17,6 +17,7 @@ function App() {
 
   function addScore (num) {
     hit = num;
+    console.log();
   }
 
   function addWicket () {
