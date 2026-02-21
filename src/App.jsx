@@ -17,18 +17,10 @@ function App() {
 
   function addScore (num) {
     hit = num;
-    // if (wicket < 10) {
-    //   setOverResult(prev => [...prev, num]);
-    //   setScore(score + num);
-    // }
   }
 
   function addWicket () {
     hit = 'w'
-    // if (wicket < 10) {
-    //   setOverResult(prev => [...prev, 'w']);
-    //   setWicket(wicket + 1);
-    // }
   }
 
   const ScoreButtons = () => (
